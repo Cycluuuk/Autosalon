@@ -1,0 +1,79 @@
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Auto.exe.config
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Auto.exe
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Auto.pdb
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\MySql.Data.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Google.Protobuf.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Zstandard.Net.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\Renci.SshNet.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\System.Buffers.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\System.Memory.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sasha\Desktop\курс\Auto\bin\Debug\MySql.Data.xml
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.exe.config
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_Information_Form.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Main_From.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Show_Information_From.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.exe
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.pdb
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_brigade.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_district.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_emploeey.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_emp_category.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_product.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_product_category.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_product_record.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Add_workshop.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_brigade.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_district.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_employeer.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_empl_category.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_empl_personal.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_product.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_product_category.resources
+C:\Users\Sasha\Desktop\курс\Auto\obj\Debug\Auto.Update_workshop.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Auto.exe.config
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Auto.exe
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Auto.pdb
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\MySql.Data.dll
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Google.Protobuf.dll
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Ubiety.Dns.Core.dll
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\Renci.SshNet.dll
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\bin\Debug\MySql.Data.xml
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_brigade.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_district.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_emploeey.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_emp_category.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_Information_Form.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_product.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_product_category.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_product_record.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Add_workshop.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Main_From.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Properties.Resources.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Show_Information_From.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_brigade.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_district.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_employeer.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_empl_category.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_empl_personal.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_product.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_product_category.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.Update_workshop.resources
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.csproj.CopyComplete
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.exe
+D:\Институт\3 курс\6 сем\Карантин\БД\171702с Мироевский Дмитрий Эдуардович Курсовая работа\курс\Auto\obj\Debug\Auto.pdb
